@@ -1,0 +1,7 @@
+.navContainer {
+    box-sizing: border-box;
+    width: 100%;
+    height: 70px;
+    padding: 15px;
+    background-color: blueviolet;
+}
